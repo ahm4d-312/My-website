@@ -1,0 +1,51 @@
+{
+  "palette": {
+    "seed": 2,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "Table": 1,
+    "Tabll_of_Contents": 2,
+    "Table_of_Contents": 3,
+    "test": 4,
+    "aaa": 5,
+    "CMD": 6,
+    "TESTSET": 7,
+    "TESTS": 8,
+    "Books": 9,
+    "bash": 10,
+    "black_hat": 11,
+    "trd": 12,
+    "black_hat_bash": 13,
+    "Books_bash": 14,
+    "Books_": 15,
+    "Books_black_hat": 16,
+    "rooms": 17,
+    "THM": 18,
+    "machines": 19,
+    "HTB": 20,
+    "easy": 21,
+    "python": 22,
+    "random": 23,
+    "network": 24,
+    "powershell": 25,
+    "Registry": 26,
+    "scripting": 27,
+    "asdf": 28,
+    "nmap": 29,
+    "Assembly": 30,
+    "Pentesting_in_": 31,
+    "Pentesting_in_a_Nutshell": 32,
+    "rust": 33,
+    "include": 34,
+    "black_hat_bash_books": 35,
+    "black_hat_bash_Books": 36
+  },
+  "_version": 3
+}
